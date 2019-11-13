@@ -34,7 +34,7 @@ class UserCard extends React.Component {
                     </i>
                   </p>
                   <p>
-                    Пол: <i>{this.F1(user.gender)}</i>
+                    Пол.: <i>{this.F1(user.gender)}</i>
                   </p>
                   <p>
                     Адрес:{" "}
